@@ -1,5 +1,6 @@
 #! /usr/bin/python3.7
 # mcb.pyw - Saves clipboard contents to specified keyword and allows recall later.
+# Adapted from sample code in the book "Automate the Boring Stuff with Python".
 # Usage: ./mcb.pyw help - Displays usage guide.
 #        ./mcb.pyw save <keyword> - Save clipboard contents to keyword.
 #        ./mcb.pyw del <keyword> - Delete clipboard contents for specified keyword.
