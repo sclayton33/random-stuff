@@ -8,7 +8,7 @@ OLD_SEASON_NUM = 'S01'
 NEW_SEASON_NUM = 'S02'
 SEASON_PATH = r"/path/to/season/folder"
 
-# counts number of files changed and creats empty list to store new file names
+# counts number of files changed and creates empty list to store new file names
 counter = 0
 files = []
 
